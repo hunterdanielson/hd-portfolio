@@ -1,0 +1,115 @@
+{
+    "main": {
+      "name":"Hunter Danielson",
+      "occupation":"Software Developer",
+      "description":"I am a constant learner, and builder. Two of the thing I enjoy the most about programming is being able to create cool things such as games or visually pleasing pieces, and being able to solve problems.",
+      "image":"profilepic.jpg",
+      "bio":"I enjoy learning new technologies and working with ones such as React, Python, and many others. Working on a team or individually is fine with me. In my free time I enjoy playing games with friends, and spending time outside in the elements.",
+      "contactmessage":"Please don't hesistate to get into contact with me!",
+      "email": "hunterleedanielson@gmail.com",
+      "phone": "",
+      "address":{
+        "street":"",
+        "city":"Hillsboro",
+        "state":"OR",
+        "zip": ""
+      },
+      "website": "http://www.hunterdanielson.com",
+      "resumedownload":"HD-resume.jpg",
+      "social":[
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/hunter-danielson/",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"github",
+          "url":"http://github.com/hunterdanielson",
+          "className":"fa fa-github"
+        }
+      ]
+    },
+    "resume":{
+      "skillmessage":"Educational Experience",
+      "education":[
+        {
+          "school":"Walla Walla University",
+          "degree":"Bachelor of Science in Computer Science",
+          "graduated":"June 2019",
+          "description":"Accredited university where I learned how to code, as well as become a balanced individual and contributer to society. Some courses taken include: assembly language, computer architechture, operating systems, software development, software engineering."
+        },
+        {
+          "school":"Alchemy Code Lab",
+          "degree":"Software Developer training",
+          "graduated":"September 2020",
+          "description":"800+ hour intensive MERN-stack (MongoDB, Express, React & Redux, Node) professional training focused on clean code, team-building, individual problem solving, and TDD (Test Driven Development). A 3 part program; a deep dive into vanilla JavaScript, SPA app development and RESTful APIs, and Full-stack React apps with MongoDB + Mongoose."
+        }
+      ],
+      "work":[
+        {
+          "company":"Camp MiVoden Resort",
+          "title":"Boat Driver",
+          "years":"June 2015 - August 2018",
+          "description":"Worked on a team to provide an exceptional customer experience."
+        }
+      ],
+      "skills":[
+        {
+          "name":"C++",
+          "image":""
+        },
+        {
+          "name":"Python",
+          "image":""
+        },
+        {
+          "name":"React",
+          "image":""
+        },
+        {
+          "name":"JavaScript",
+          "image":""
+        },
+        {
+          "name":"HTML",
+          "image":""
+        },
+        {
+          "name":"CSS",
+          "image":""
+        },
+        {
+          "name":"SQL",
+          "image":""
+        },
+        {
+          "name":"PHP",
+          "image":""
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"JHEMM-Fighters",
+          "category":"Game built in vanilla JS utilizing local storage by a team of 5",
+          "image":"jhemm-fighters-picture.png",
+          "url":"https://team-jhemm-fighters.github.io/jhemm-fighters/",
+          "github":"https://github.com/team-jhemm-fighters/jhemm-fighters"
+        }
+      ]
+    },
+    "testimonials":{
+      "testimonials":[
+        {
+          "text":"Parker Sequeira",
+          "user":"I played your game. It's pretty good."
+        },
+        {
+          "text":"Mom",
+          "user":"Proud of you."
+        }
+      ]
+    }
+  }
+  
