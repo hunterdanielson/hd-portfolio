@@ -32,7 +32,6 @@ class App extends Component {
     console.log(this.state)
     return (
       <div className="App">
-        test
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
